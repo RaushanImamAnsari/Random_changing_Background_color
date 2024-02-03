@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    min-height: 100vh;
+    width: 100%;
+    background-color: rgb(59, 56, 52);
+    text-align: center;
+}
+
+.container button {
+    border: none;
+    border-radius: 15px;
+    /* margin: 290px 10px; */
+    margin: 40vh 90vh;
+    padding: 15px 10px;
+    color: #fff;
+    background-color: black;
+    cursor: pointer;
+}
