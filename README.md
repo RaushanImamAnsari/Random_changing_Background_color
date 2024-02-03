@@ -6,9 +6,7 @@
 - It`s uses JAVASCRIPT for making it interactive to the client
  
 ### Connected with me:
-LinkedIn: [linkedin]
+LinkedIn: www.linkedin.com/in/raushan-imam-8705xa
 
 AUTHOR -- <b>RAUSHAN IMAM</b>
-
-<br>
-[linkedin]: www.linkedin.com/in/raushan-imam-8705xa
+ 
